@@ -1,4 +1,3 @@
-- Very interested in computers
-- Currently learning C++ and C#
 - Alliases : zh4ck, zhacxk, and terizaki.
+- Currently learning C++ and C#
 - Reach me via Discord : Zhxck#9641
