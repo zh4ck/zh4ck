@@ -1,15 +1,9 @@
-### Zh4ck here! 👋
-A compsci student, I love exploring new things.
-<br>
-<div>
-	<a href="https://github.com/zh4ck">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zh4ck&theme=transparent&rank_icon=github&card_width=430&hide_border=true&title_color=ffffff&text_color=909090&hide_title=true&border_color=909090"/>
-  </a>
-<br>
-<br>
-  <a href="https://github.com/zh4ck">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zh4ck&layout=compact&langs_count=10&theme=transparent&hide_title=true&title_color=ffffff&text_color=909090&border_color=909090&card_width=460&hide_border=true&size_weight=0.5&count_weight=0.5&hide=cmake,dockerfile,shell,css" />
-  </a>
-</div>
+# Hey There! 👋
+I'm a student
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zh4ck" alt="GitHub Streak" /></a>
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
