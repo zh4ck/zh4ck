@@ -2,7 +2,7 @@
 I'm a compsci student, that's all
 
 ### 📊 My Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zh4ck" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zh4ck&theme=dark)](https://git.io/streak-stats)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
